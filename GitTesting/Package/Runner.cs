@@ -16,6 +16,10 @@ namespace GitTesting
             this._writer = new Writer();
             this._reader = new Reader();
         }
+
+        /// <summary>
+        /// Runner
+        /// </summary>
         public void Run()
         {
             this._writer.Write();
