@@ -19,6 +19,7 @@ namespace GitTesting
 
         /// <summary>
         /// First Branch
+        /// Second
         /// </summary>
         public void Run()
         {
